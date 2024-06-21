@@ -1,0 +1,20 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+
+h1{
+    text-align: center;
+    font-family: arial;
+}
+
+
+button{
+    display: block;
+    margin: 30px;
+    width: 140px;
+    border-radius:10px ;
+    position: relative;
+    left: 40vw;
+}
